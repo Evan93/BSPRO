@@ -1,0 +1,124 @@
+﻿
+@{
+    ViewBag.Title = "DashBoard";
+}
+
+<h2>Index</h2>
+Welcome @Session["Name"]
+
+
+
+<div id="content" ng-controller="DashController">
+    <span ng-show="isViewLoading" class="viewLoading">
+        <img src="~/Content/images/ng-loader.gif" /> loading...
+    </span>
+
+
+    <h2>All Posts</h2>
+    <hr>
+    <input st-search="" placeholder="Search" class="input-sm form-control" type="search" />
+    <hr>
+    <div class="box-body table-responsive">
+        <div class="row">
+            <table st-table="Posts" st-safe-src="Posts" class="table table-condensed table-bordered table-striped table-hover pnlView">
+
+                <thead>
+                    <tr>
+
+
+                        <th>Sl No</th>
+                        <th>Post</th>
+                        <th st-sort="User">User</th>
+                        <th>Time</th>
+                        <th>Action</th>
+
+                    </tr>
+
+                </thead>
+                <tbody>
+
+                    <tr ng-repeat="Post in Posts">
+
+                        <td>{{Post.PostId}}</td>
+
+                        <td>{{Post.PostDesc}}</td>
+                        <td>{{Post.Name}}</td>
+                        <td>{{Post.LocalTime}}</td>
+                        <td><a href="#" ng-click="getComments(Post.PostId)"> View Comments </a></td>
+
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5" class="text-center">
+                            <button type="button" class="btn btn-primary" ng-click="back()">Back</button>
+                    
+                            <button id="next" type="button" class="btn btn-primary" ng-click="next()">Next</button>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+      
+       
+     
+        <div class="box-footer with-border">
+            <div class="form-group">
+            </div>
+        </div>
+    </div>
+        <table class="table table-striped">
+        </table>
+        <div id="classModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="classInfo" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                            ×
+                        </button>
+                        <h4 class="modal-title" id="classModalLabel">
+                            Class Info
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table table-striped">
+                            <thead class="table table-bordered custom_head">
+                                <tr class="=warning">
+                                    <th style="text-align: center;">Id</th>
+                                    <th style="text-align: center;">Comment</th>
+                                    <th style="text-align: center;">User</th>
+                                    <th style="text-align: center;">Commented Time</th>
+                                    <th style="text-align: center;">Votes</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="Comment in Comments">
+                                    <td>{{Comment.CommentId}}</td>
+                                    <td>{{Comment.CommentDesc}}</td>
+                                    <td>{{Comment.Name}}</td>
+                                    <td>{{Comment.LocalTime}}</td>
+                                    <td>
+                                        <img src="~/Content/images/up.png" width="20" height="20">{{Comment.likeyes}}
+                                        <img src="~/Content/images/down.png" width="20" height="20">{{Comment.likeno}}
+                                    </td>
+
+                                </tr>
+                            <tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+@section JavaScript{
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/ScriptsNg/DashboardController.js"></script>
+}

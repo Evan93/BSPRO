@@ -1,0 +1,68 @@
+﻿@model BS23.Models.UserInfo
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="row">
+
+    
+
+    <div class="span10 testimonial">
+        @using (Html.BeginForm("UserLogIn", "Home", FormMethod.Post, new { id = "signupform", @class = "form-horizontal" }))
+        {<div class="container">
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="widget-block">
+                        <div class="widget-head">
+                            <h5>LOG IN</h5>
+                        </div>
+                        <div class="widget-content">
+                            <div class="widget-box">
+                                <fieldset>
+                                 
+                                    <div class="control-group custom-marginheight" >
+                                        <label id="" class="control-label">User Name<span class="must-required"><strong>&nbsp; *</strong></span></label>
+                                        <div class="controls" id="cloDate" style="width: 16.8%;">
+                                            @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })  
+                                        @if (@ViewBag.Msg != null)
+                                            {
+                                                <div>
+                                                    <h5 style="color: red">@ViewBag.Msg</h5>
+                                                </div>
+                                            }
+                                        </div><br>
+                                        <div class="form-actions">
+                                            <input type="submit" id="btnShow" name="btnShow" value="Log In" class="btn btn-primary btn-small" />
+
+                                        </div>
+                                    </div>
+                                    
+                                </fieldset>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="span16">
+                    <div class="widget-head">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+         
+           
+        }
+    </div>
+
+
+
+</div>
+
+
+
+

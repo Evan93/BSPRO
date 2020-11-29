@@ -1,0 +1,115 @@
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\ApplicationInsights.config
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\csc.exe
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\System.Collections.Immutable.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\vbc.exe
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\VBCSCompiler.exe
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\roslyn\VBCSCompiler.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\BS23.dll.config
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\BS23.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\BS23.pdb
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\EntityFramework.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\EntityFramework.SqlServer.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.Web.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.WindowsServer.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.ApplicationInsights.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.Web.Infrastructure.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Net.Http.Formatting.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Helpers.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Http.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Http.WebHost.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Mvc.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Razor.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.Deployment.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.Razor.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\EntityFramework.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\EntityFramework.SqlServer.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.Web.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.AI.WindowsServer.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.ApplicationInsights.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Net.Http.Formatting.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Http.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Http.WebHost.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Razor.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.Deployment.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Webpages.Razor.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Helpers.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\bin\System.Web.Mvc.xml
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\obj\Debug\BS23.dll
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\obj\Debug\BS23.pdb
+c:\users\developer\documents\visual studio 2015\Projects\BS23\BS23\obj\Debug\BS23.csprojResolveAssemblyReference.cache
+D:\internship\evan\Evan\BS23\BS23\bin\ApplicationInsights.config
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\csc.exe
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\System.Collections.Immutable.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\System.Reflection.Metadata.dll
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\vbc.exe
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\VBCSCompiler.exe
+D:\internship\evan\Evan\BS23\BS23\bin\roslyn\VBCSCompiler.exe.config
+D:\internship\evan\Evan\BS23\BS23\bin\BS23.dll.config
+D:\internship\evan\Evan\BS23\BS23\bin\BS23.dll
+D:\internship\evan\Evan\BS23\BS23\bin\BS23.pdb
+D:\internship\evan\Evan\BS23\BS23\bin\EntityFramework.dll
+D:\internship\evan\Evan\BS23\BS23\bin\EntityFramework.SqlServer.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.Agent.Intercept.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.DependencyCollector.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.Web.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.WindowsServer.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.ApplicationInsights.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.Web.Infrastructure.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Net.Http.Formatting.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Helpers.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Http.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Http.WebHost.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Mvc.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Razor.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.Deployment.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.dll
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.Razor.dll
+D:\internship\evan\Evan\BS23\BS23\bin\Newtonsoft.Json.dll
+D:\internship\evan\Evan\BS23\BS23\bin\EntityFramework.xml
+D:\internship\evan\Evan\BS23\BS23\bin\EntityFramework.SqlServer.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.DependencyCollector.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.Web.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.AI.WindowsServer.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.ApplicationInsights.xml
+D:\internship\evan\Evan\BS23\BS23\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Net.Http.Formatting.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Http.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Http.WebHost.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Razor.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.Deployment.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Webpages.Razor.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Helpers.xml
+D:\internship\evan\Evan\BS23\BS23\bin\System.Web.Mvc.xml
+D:\internship\evan\Evan\BS23\BS23\obj\Debug\BS23.csprojAssemblyReference.cache
+D:\internship\evan\Evan\BS23\BS23\obj\Debug\BS23.csproj.CoreCompileInputs.cache
+D:\internship\evan\Evan\BS23\BS23\obj\Debug\BS23.csproj.CopyComplete
+D:\internship\evan\Evan\BS23\BS23\obj\Debug\BS23.dll
+D:\internship\evan\Evan\BS23\BS23\obj\Debug\BS23.pdb
